@@ -1,0 +1,1 @@
+sendMessage("Running WildFire Structure", 10);
