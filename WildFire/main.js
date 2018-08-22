@@ -1,9 +1,14 @@
-sendMessage("Launching WildFire %SlaveName%",2);
-sendMessage("running system functions");
-run("systemFunctions.js");
-run("Stroking/stroking_Base.js");
-sendMessage("running Installation");
-run("installation.js");
-sendMessage("running Structure");
-run("Structure/WildFireStructure.js");
+let installation;
 
+if (installation) {
+  sendMessage("DEBUG: running Installation");
+  run("installation.js");
+  let installation = false;
+} else {
+}
+
+sendMessage("DEBUG: running system functions");
+run("systemFunctions.js");
+
+sendMessage("DEBUG: Running Structure");
+run("Structure/WildFireStructure.js");

@@ -1,5 +1,3 @@
 Write a lol and grin vocabulary that uses sound.
 
-Find out how to store and change global variables.
-
-Can I use Load to 
+Can I use Load to
