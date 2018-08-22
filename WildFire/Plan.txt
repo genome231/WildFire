@@ -1,3 +1,25 @@
-Write a lol and grin vocabulary that uses sound.
+Vocabulary to-do
+grin
+lol
+strokeFaster
+StrokeSlower
+StartStroking
+StopStroking
+strokeSlow
+strokeFast
 
 Can I use Load to
+
+
+Create stroking functions:
+  -Creating a function that will simply select the pattern based on speed (Done)
+  
+  
+  Need to decide how the domme will guide the sub
+  Should the system have a limit based on how long the sub has been denied?
+  
+  How does the domme keep track of difficuilt throughout a session:
+    Need to avoid the sub stroking on full speed for a full session. 
+    
+Is it possible to change the interface?
+Is it possible to decide fonts, text color etc?

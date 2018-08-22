@@ -3,7 +3,7 @@ let installation;
 if (installation) {
   sendMessage("DEBUG: running Installation");
   run("installation.js");
-  let installation = false;
+  installation = false;
 } else {
 }
 
