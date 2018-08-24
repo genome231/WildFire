@@ -1,3 +1,12 @@
+Next step
+Determine the overall structure
+
+- How to determine how undressed the domme should be. 
+- How to determine how much time has passed. 
+
+
+
+
 Vocabulary to-do
 
 
@@ -16,6 +25,23 @@ Create stroking functions:
     
 Is it possible to change the interface?
 Is it possible to decide fonts, text color etc?
+
+
+------------------------------------------------------------------------- Structure ------------------------------------------------------------
+Main --> Functions: making sure that all the proper functions run, then it returns to main.
+Main --> Start: Will run all the different start stuff, checking variables, choosing between domme or glitter etc.
+Start --> The final start is choosing a starting module, this is where interaction between the sessions domme and sub is established.
+Start --> Stroking: Is the main part of the session. 
+Stroking --> Break --> Stroking: This cycle continue to run until the sessioner timer runs out. 
+Stroking --> End: Will determine if the sub has earned an orgasm/ruin/denial and move accordingly, from there it will run any end-scripts and end the session.
+
+
+From main launch is started
+From launch all the 
+
+
+
+
 
 
 //-------------------------------------------------------------------------- LINKS ------------------------------------------------------------
