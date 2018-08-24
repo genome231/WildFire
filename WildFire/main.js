@@ -13,4 +13,4 @@ sendMessage("DEBUG: running stroking functions");
 run("Functions/functions_Stroking.js");
 
 sendMessage("DEBUG: Running Start");
-run("Session/Stroking/start_Base.js");
+run("Session/Start/start_Base.js");

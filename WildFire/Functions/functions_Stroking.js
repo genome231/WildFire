@@ -94,79 +94,79 @@ function playStrokePace(strokePace) {
     strokePace = 4;
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/40.mp3");
-  } else if (strokePace == 4) {
+  } else if (strokePace === 4) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/40.mp3");
-  } else if (strokepace == 5) {
+  } else if (strokepace === 5) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/50.mp3");
-  } else if (strokepace == 6) {
+  } else if (strokepace === 6) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/60.mp3");
-  } else if (strokepace == 7) {
+  } else if (strokepace === 7) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/70.mp3");
-  } else if (strokepace == 8) {
+  } else if (strokepace === 8) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/80.mp3");
-  } else if (strokepace == 9) {
+  } else if (strokepace === 9) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/90.mp3");
-  } else if (strokepace == 10) {
+  } else if (strokepace === 10) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/100.mp3");
-  } else if (strokepace == 11) {
+  } else if (strokepace === 11) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/110.mp3");
-  } else if (strokepace == 12) {
+  } else if (strokepace === 12) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/120.mp3");
-  } else if (strokepace == 13) {
+  } else if (strokepace === 13) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/130.mp3");
-  } else if (strokepace == 14) {
+  } else if (strokepace === 14) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/140.mp3");
-  } else if (strokepace == 15) {
+  } else if (strokepace === 15) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/150.mp3");
-  } else if (strokepace == 16) {
+  } else if (strokepace === 16) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/160.mp3");
-  } else if (strokepace == 17) {
+  } else if (strokepace === 17) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/170.mp3");
-  } else if (strokepace == 18) {
+  } else if (strokepace === 18) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/180.mp3");
-  } else if (strokepace == 19) {
+  } else if (strokepace === 19) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/190.mp3");
-  } else if (strokepace == 20) {
+  } else if (strokepace === 20) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/200.mp3");
-  } else if (strokepace == 21) {
+  } else if (strokepace === 21) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/210.mp3");
-  } else if (strokepace == 22) {
+  } else if (strokepace === 22) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/220.mp3");
-  } else if (strokepace == 23) {
+  } else if (strokepace === 23) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/230.mp3");
-  } else if (strokepace == 24) {
+  } else if (strokepace === 24) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/240.mp3");
-  } else if (strokepace == 25) {
+  } else if (strokepace === 25) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/250.mp3");
-  } else if (strokepace == 26) {
+  } else if (strokepace === 26) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/260.mp3");
-  } else if (strokepace == 27) {
+  } else if (strokepace === 27) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/270.mp3");
-  } else if (strokepace == 28) {
+  } else if (strokepace === 28) {
     stopAudio();
     playAudio("GNMSounds/Stroking/Metronome/280.mp3");
   } else if (strokepace > 28) {
