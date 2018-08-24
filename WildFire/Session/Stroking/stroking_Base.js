@@ -1,1 +1,1 @@
-
+run("Session/Stroking/Stroking_Simple/s1.js");

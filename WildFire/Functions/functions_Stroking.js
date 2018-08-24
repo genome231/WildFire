@@ -5,12 +5,12 @@
 
 //Start stroking function where you set the pace, notice the number range goes from 4 - 24 equaling a metronome between 40-240.
 function startStroking(input) {
-	sendMessage("%StartStroking%");
+	sendMessage("%stroke_Start%");
 	playStrokePace(input);
 }
 
 function stopStroking() {
-	sendMessage("%StopStroking%");
+	sendMessage("%stroke_Stop%");
 	stopAudio();
 }
 

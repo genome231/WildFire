@@ -94,3 +94,14 @@ domfriend1name -> The name of the first dom friend
 domfriend2name -> The name of the second dom friend
 
 domfriend3name -> The name of the third dom friend
+
+
+
+
+You can push changes to Github using standard git commands inside your SSH terminal:
+
+git add -A // To track all files
+
+git commit -am "message" // To commit changes
+
+git push origin master // Push your local changes to github

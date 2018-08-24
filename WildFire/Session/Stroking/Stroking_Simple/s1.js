@@ -1,0 +1,18 @@
+startStroking(4);
+sleep(5);
+showCategoryImage("GENERAL", 5);
+increasePace();
+showCategoryImage("GENERAL", 5);
+increasePace();
+showCategoryImage("GENERAL", 5);
+increasePace();
+showCategoryImage("GENERAL", 5);
+increasePace();
+showCategoryImage("GENERAL", 5);
+increasePace();
+showCategoryImage("GENERAL", 5);
+increasePace();
+showCategoryImage("GENERAL", 5);
+increasePace();
+showCategoryImage("GENERAL", 5);
+sleep(100);

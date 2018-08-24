@@ -12,5 +12,5 @@ run("Functions/functions_Basic.js");
 sendMessage("DEBUG: running stroking functions");
 run("Functions/functions_Stroking.js");
 
-sendMessage("DEBUG: Running Structure");
-run("Structure/WildFireStructure.js");
+sendMessage("DEBUG: Running Start");
+run("Session/Stroking/start_Base.js");
